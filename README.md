@@ -215,5 +215,3 @@ Transit data comes from the [MBTA V3 API](https://api-v3.mbta.com/) and is
 subject to the
 [MassDOT Developers License Agreement](https://www.mbta.com/developers). This
 project is not affiliated with or endorsed by the MBTA.
-
-Choose and add a license for this code (for example MIT) in a `LICENSE` file.
