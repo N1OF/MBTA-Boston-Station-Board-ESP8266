@@ -1,0 +1,11 @@
+# Local credentials
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+
+# Editor / OS
+.vscode/
+.DS_Store
